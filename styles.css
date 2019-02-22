@@ -1,0 +1,47 @@
+.heather{
+    color: #d6b11d;
+    font-family: 'Bungee Inline', cursive;
+}
+    img {
+    border-radius: 10px;
+    width: 400px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Coming Soon', cursive;
+    background-image: URL(https://i.ytimg.com/vi/pPhcvp6CPSc/maxresdefault.jpg);
+}
+
+.Best-Sport {
+    color:#f40202; 
+   font-family: 'Coda Caption', sans-serif;
+}
+
+.Best-Sport img {
+    height: 250px;
+}
+.Best-Game {
+    color: #89b771;
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+.Best-Game img {
+    height: 300px;
+}
+.Best-Artist {
+    color: #16ffe3;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+
+.Best-Artist img {
+    height: 300px;
+}
+.Best-Shoes {
+ color:#29ff16;
+  font-family: 'Coming Soon', cursive;
+}
+
+.Best-Shoes img {
+    height: 300px;
+}
